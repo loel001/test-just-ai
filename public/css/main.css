@@ -452,6 +452,7 @@ td.user-table__image {
   padding-right: 8px;
   padding-top: 6px;
   padding-bottom: 6px;
+  background-color: #ebeef5;
 }
 
 .table-favorite__title td,
